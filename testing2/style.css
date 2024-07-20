@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    to right,
+    dodgerblue,
+    steelblue,
+    rgb(58, 58, 187)
+  );
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
